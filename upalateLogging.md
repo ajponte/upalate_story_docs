@@ -6,6 +6,10 @@ We need a mechanism for logging in the Upalate application.
 Logging is essential for filtering out issues with the application,
 and keeping track of the individual system components.
 
+*Note*: Not shown here is the log4j xml or groovy configurations, 
+as that has not been sorted out yet.  This story doc therefore
+serves as a high level abstraction of the logging object wrapper
+we plan to create.
 
 We need support for the conventional log levels; WARN, INFO, DEBUG, NOTICE, and ERROR.
 
