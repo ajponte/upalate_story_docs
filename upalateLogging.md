@@ -46,7 +46,7 @@ similar to the following:
              /** Factory Methods. **/
 
 
-            /**
+                /**
                  * Get a logger.
                  *
                  * @param name the name of the logger
